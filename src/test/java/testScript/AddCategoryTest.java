@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
 import genericUtilities.IConstantPath;
-
+//This test is used to add category to the application
 public class AddCategoryTest extends BaseClass {
 	@Test
 	public void addCategoryTest() {
